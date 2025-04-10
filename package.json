@@ -1,0 +1,21 @@
+{
+  "name": "roastme2000",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@ai-sdk/groq": "^1.2.3",
+    "ai": "^4.3.4",
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "limiter": "^2.1.0",
+    "node-cache": "^5.1.2",
+    "next": "14.1.4",
+    "react": "^18",
+    "react-dom": "^18"
+  }
+}
